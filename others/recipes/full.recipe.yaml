@@ -12,6 +12,7 @@ install_files: >-
   rime.lua
   lua/*.*
   lua/cold_word_drop/*.*
+  *.custom.yaml
   default.yaml
   squirrel.yaml
   weasel.yaml
