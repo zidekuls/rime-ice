@@ -8,6 +8,9 @@ sync/
 *.userdb/
 installation.yaml
 user.yaml
+!rime_ice.custom.yaml
+!default.custom.yaml
+!weasel.custom.yaml
 *.custom.yaml
 !others/**/*.custom.yaml
 
